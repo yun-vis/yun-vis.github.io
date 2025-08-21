@@ -4,15 +4,16 @@ author_profile: true
 classes: wide
 title: "Publications"
 header:
-  image: //assets/images/teaser/teaser.png
+  image: /assets/images/teaser/teaser.png
   caption: "Image credit: [**Yun**](http://yun-vis.net)"
-last_modified_at: 2025-08-20
+last_modified_at: 2025-08-21
 ---
 
 ## International Journal Publications (Peer-Reviewed)
 
 | Image | Publication | Links |
 |-------|-------------|-------|
+| ![](/assets/images/icons/cg2025.png) | Henry Ehlers, Daniel Pahr, Sara di Bartolomeo, Velitchko Filipov, **Hsiang-Yun Wu**, and Renata G. Raidou. Wiggle! Wiggle! Wiggle! Visualizing uncertainty in node attributes in straight-line node-link diagrams using animated wiggliness, _Computers & Graphics_, Vol. 131, 2025. | [\[DOI\]](https://doi.org/10.1016/j.cag.2025.104290) |
 | ![](/assets/images/icons/ev2025.png) | Daniel Pahr, Sara Di Bartolomeo, Henry Ehlers, Velitchko Filipov, Christina Stoiber, Wolfgang Aigner, **Hsiang-Yun Wu**, and Renata G. Raidou. NODKANT: Exploring Constructive Network Physicalization, _Computer Graphics Forum_ (Proceedings of EuroVis 2025),e70140, 2025. | [\[DOI\]](https://doi.org/10.1111/cgf.70140) [\[Preprint\]](/assets/projects/physicalization/ev2025.pdf) |
 | ![](/assets/images/icons/cg2025.png) | Henry Ehlers, Nicolas Brich, Michael Krone, Martin Nöllenburg, Jiacheng Yu, Hiroaki Natsukawa, Xiaoru Yuan, and **Hsiang-Yun Wu**. An introduction to and survey of biological network visualization, _Computers & Graphics_, Vol. 126, pp. 104115, 2025. | [\[DOI\]](https://doi.org/10.1016/j.cag.2024.104115) [\[Preprint\]](/assets/projects/bionet/cg2025.pdf) |
 | ![](/assets/images/icons/tvcg2024.png) | Daniel Pahr, Michal Piovarči, **Hsiang-Yun Wu**, and Renata G. Raidou. Squishicalization: Exploring Elastic Volume Physicalization, _IEEE Transactions on Visualization and Computer Graphics (TVCG)_, 2024. | [\[DOI\]](https://doi.org/10.1109/TVCG.2024.3516481) [\[Preprint\]](/assets/projects/physicalization/tvcg2024.pdf) |
@@ -52,8 +53,8 @@ last_modified_at: 2025-08-20
 
 | Image | Publication | Links |
 |-------|-------------|-------|
-| ![](/assets/images/icons/ivapp2024.png) | Henry Ehlers, Diana Marin, **Hsiang-Yun Wu**, and Renata G. Raidou. Visualizing Group Structure in Compound Graphs: The Current State, Lessons Learned, and Outstanding Opportunities, in _Proceedings of the 19th International Joint Conference on Computer Vision, Imaging and Computer Graphics Theory and Applications (IVAPP2024)_, 2024. | [\[DOI\]](<br>    https://doi.org/10.5220/0012431200003660) [\[Preprint\]](/assets/projects/graph/ivapp2024.pdf) |
-| ![](/assets/images/icons/gd2023.png) | Jacob Miller, Mohammad Ghoniem, **Hsiang-Yun Wu**, and Helen C. Purchase. On the Perception of Small Sub-graphs, in _Proceedings of the 31th International Symposium on Graph Drawing and Network Visualization (GD2023)_, 2023. | [\[DOI\]](https://doi.org/10.1007/978-3-031-49272-3_15) [\[Preprint\]](<br>    https://doi.org/10.48550/arXiv.2308.03890) [\[Preprint2\]](/assets/projects/graph/gd2023-preprint.pdf) |
+| ![](/assets/images/icons/ivapp2024.png) | Henry Ehlers, Diana Marin, **Hsiang-Yun Wu**, and Renata G. Raidou. Visualizing Group Structure in Compound Graphs: The Current State, Lessons Learned, and Outstanding Opportunities, in _Proceedings of the 19th International Joint Conference on Computer Vision, Imaging and Computer Graphics Theory and Applications (IVAPP2024)_, 2024. | [\[DOI\]](https://doi.org/10.5220/0012431200003660) [\[Preprint\]](/assets/projects/graph/ivapp2024.pdf) |
+| ![](/assets/images/icons/gd2023.png) | Jacob Miller, Mohammad Ghoniem, **Hsiang-Yun Wu**, and Helen C. Purchase. On the Perception of Small Sub-graphs, in _Proceedings of the 31th International Symposium on Graph Drawing and Network Visualization (GD2023)_, 2023. | [\[DOI\]](https://doi.org/10.1007/978-3-031-49272-3_15) [\[Preprint\]](https://doi.org/10.48550/arXiv.2308.03890) [\[Preprint2\]](/assets/projects/graph/gd2023-preprint.pdf) |
 | ![](/assets/images/icons/gd2022.png) | Martin Nöllenburg, Manuel Sorge, Soeren Terziadis, AnaÏs Villedieu, **Hsiang-Yun Wu**, and Jules Wulms. Planarizing Graphs and their Drawings by Vertex Splitting, in _Proceedings of the 30th International Symposium on Graph Drawing and Network Visualization (GD2022)_, 2022. | [\[DOI\]](https://doi.org/10.1007/978-3-031-22203-0_17) [\[Preprint\]](https://arxiv.org/abs/2202.12293) [\[Preprint2\]](/assets/projects/graph/gd2022.pdf) |
 | ![](/assets/images/icons/issac2021.png) | Sujoy Bhore, Guangping Li, Martin Nöllenburg, Ignaz Rutter, and **Hsiang-Yun Wu**. Untangling Circular Drawings: Algorithms and Complexity, in _Proceedings of the 32nd International Symposium on Algorithms and Computation (ISAAC 2021)_, 2021. | [\[DOI\]](https://doi.org/10.4230/LIPIcs.ISAAC.2021.71) [\[Preprint\]](https://arxiv.org/abs/2111.09766) [\[Preprint2\]](/assets/projects/graph/issac2021-preprint.pdf) |
 | ![](/assets/images/icons/vcbm2021.png) | Daniel Pahr, **Hsiang-Yun Wu**, and Renata Raidou. Vologram: An Educational Holographic Sculpture for Volumetric Medical Data Physicalization, in _Proceedings of the 11th Eurographics Workshop on Visual Computing for Biology and Medicine (VCBM2021)_, 2021. | [\[DOI\]](https://doi.org/10.2312/vcbm.20211341) [\[Preprint\]](/assets/projects/physicalization/vcbm2021-preprint.pdf) [\[Video\]](/assets/projects/physicalization/vcbm2021.mp4) |
@@ -98,7 +99,7 @@ last_modified_at: 2025-08-20
 *   Da Yan, Hong Qin, **Hsiang-Yun Wu**, and Jake Y. Chen. Editorial: AI-Enabled Data Science for COVID-19, Frontiers, 2021.  
     [\[DOI\]](https://doi.org/10.3389/fdata.2021.802452) [\[URL\]](http://journal.frontiersin.org/article/10.3389/fdata.2021.802452)
 *   Osamu Saeki, Shigeo Takahashi, Daisuke Sakurai, **Hsiang-Yun Wu**, Keisuke Kikuchi, Hamish Carr, David Duke, and Takahiro Yamamoto. Visualizing Multivariate Data using Singularity Theory, In The Impact of Applications on Mathematics (Proceedings of Forum Math-for-Industry 2013), pp. 51–65. Springer, 2014.
-*   
+
 
 ## Position/Workshop Papers (Peer-Reviewed)
 
@@ -142,7 +143,7 @@ last_modified_at: 2025-08-20
 
 | Image | Publication | Links |
 |-------|-------------|-------|
-| ![](images/The_world_of_scientists-label-small.png) | **Hsiang-Yun Wu**. The World of Scientists, The 24-Hour Science Map Contest, 2021.  <br>**\[1st Place Award\]** | [small \[png\]](images/The_world_of_scientists-label-small.png) [large \[png\]](images/The_world_of_scientists-label-large.png) |
+| ![](images/the_world_of_scientists/the_world_of_scientists-icon.png) | **Hsiang-Yun Wu**. The World of Scientists, The 24-Hour Science Map Contest, 2021.  <br>**\[1st Place Award\]** | [small \[png\]](images/The_world_of_scientists-label-small.png) [large \[png\]](images/The_world_of_scientists-label-large.png) |
 | ![](/assets/images/icons/vcbm2021c.png) | Daniel Pahr, **Hsiang-Yun Wu**, and Renata Raidou. The Anatomical Edutainer: A Physicalization Approach for Accessible Anatomical Edutainment, Image Contest of 10th EG Workshop on Visual Computing for Biology and Medicine (VCBM2021), 2021. | [\[png\]](/assets/projects/physicalization/vcbm2021c.png) |
 | ![](/assets/images/icons/gd2020c.png) | Markus Wallinger and **Hsiang-Yun Wu**. K-Pop Hive, The 29th Annual Graph Drawing Contest (GD2020), 2020.  <br>**\[3rd Place Award\]** | [\[pdf\]](/assets/projects/graph/gd2020c.pdf) |
 | ![](/assets/images/icons/vcbm2020c.png) | Marwin Schindler, **Hsiang-Yun Wu**, and Renata Raidou. The Anatomical Edutainer: A Physicalization Approach for Accessible Anatomical Edutainment, Image Contest of 10th EG Workshop on Visual Computing for Biology and Medicine (VCBM2020), 2020. | [\[jpg1\]](/assets/projects/physicalization/vcbm2020c-1.jpg) [\[jpg2\]](/assets/projects/physicalization/vcbm2020c-2.jpg) |
