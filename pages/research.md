@@ -12,6 +12,7 @@ last_modified_at: 2025-08-21
 ## Areas of Research Interest
 
 ![The World of Scientists](/assets/images/illustrations/yun-vikii-small.jpg)
+
 Courtesy of [Vikki Academy](https://www.vikkiacademy.com/)
 
 - **Visualization** in particular network visualization and multivariate data visualization (visual analytics, visual abstraction, machine-assisted algorithms, dynamic algorithms, label placement, automatic diagram
@@ -31,6 +32,6 @@ synthesis, etc.)
 
 ## The World of Scientists
 
-![The World of Scientists](/assets/images/the_world_of_scientists/The_world_of_scientists-label-small.png)
+![The World of Scientists](/assets/images/the_world_of_scientists/the_world_of_scientists-label-small.png)
 
-The map is created by Hsiang-Yun Wu. Copyright: CC BY-NC-ND. You are free to share (copy, distribute and transmit) by citing the author. (Download: [small](/assets/images/the_world_of_scientists/The_world_of_scientists-label-small.png) (1131x800, 2.3MB), [large](/assets/images/the_world_of_scientists/The_world_of_scientists-label-large.png) (2262x1600, 8.9MB))
+The map is created by Hsiang-Yun Wu. Copyright: CC BY-NC-ND. You are free to share (copy, distribute and transmit) by citing the author. (Download: [small](/assets/images/the_world_of_scientists/the_world_of_scientists-label-small.png) (1131x800, 2.3MB), [large](/assets/images/the_world_of_scientists/the_world_of_scientists-label-large.png) (2262x1600, 8.9MB))

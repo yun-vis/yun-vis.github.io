@@ -30,13 +30,12 @@ last_modified_at: 2025-08-20
 - Publicity Chair: IEEE Pacific Visualization Symposium (PacificVis) (2014)  
 - Session Chair: PacificVis 2014, SmartGraphics 2015, and iV 2016  
 
----
 
 ## Editors
 - Guest Associate Editor, [IEEE/ACM Transactions on Computational Biology and Bioinformatics (BIOKDD2020 Special Issue)](https://mc.manuscriptcentral.com/tcbb-cs), 2021  
 - Guest Associate Editor, [AI-enabled Data Science for COVID-19, Medicine and Public Health](https://www.frontiersin.org/research-topics/16237/ai-enabled-data-science-for-covid-19), 2021  
 
----
+
 
 ## Program Committee
 - IEEE Visualization (IEEE Vis) (2020)  
@@ -51,7 +50,7 @@ last_modified_at: 2025-08-20
 - International Symposium on Visual Information Communication and Interaction (VINCI) (2015–2018)  
 - International Symposium on Big Data and Data Analytics in Collaboration (BDDAC) (2015–2016)  
 
----
+
 
 ## Reviewer
 - **International Journal/Conference Paper Reviewer:**  
@@ -83,7 +82,7 @@ last_modified_at: 2025-08-20
   - The Journal of the Institute of Image Electronics Engineers of Japan (IIEEJ) (2015)  
   - Transactions of the Visualization Society of Japan (2012)  
 
----
+
 
 ## Invited Talks
 - **Hsiang-Yun Wu**, Martin Nöllenburg, Filipa L. Sousa, and Ivan Viola, *Metabopolis: Scalable network layout for biological pathway diagrams in urban map style*, ISMB BioVis COSI, Virtual, USA, July 2020  
@@ -99,7 +98,7 @@ last_modified_at: 2025-08-20
 - **Hsiang-Yun Wu**, *Designing Annotated Metro Maps through Constrained Optimization*, NII Shonan Meeting Seminar, Japan, Mar 2014 [webpage](http://shonan.nii.ac.jp/seminar/046/)  
 - Shigeo Takahashi and **Hsiang-Yun Wu**, *Aesthetic Design of Map Layouts through Constrained Optimization*, Japanese-Taiwanese Workshop on Information Visualization and Graph Drawing, Taipei, May 2013  
 
----
+
 
 ## Webmaster
 - [IEEE Pacific Visualization Symposium (PacificVis 2018)](http://itolab.is.ocha.ac.jp/pvis2018/index.html)  
@@ -107,5 +106,5 @@ last_modified_at: 2025-08-20
 - [Topology-Based Methods in Visualization (TopoInVis 2017)](http://fj.ics.keio.ac.jp/topoinvis/)  
 - [IEEE Pacific Visualization Symposium (PacificVis 2014)](http://www.fj.ics.keio.ac.jp/pvis2014/index.html)  
 
----
+
 
