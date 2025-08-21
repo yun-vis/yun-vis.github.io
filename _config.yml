@@ -115,7 +115,7 @@ analytics:
 author:
   name             : "Hsiang-Yun Wu"
   avatar           : "/assets/images/photos/yun.png"
-  bio              : "This website documents my reseach and teaching activities"
+  bio              : "I am a visualization researcher and lecturer."
   location         : "Austria"
   email            :
   links:
@@ -128,8 +128,11 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/yun-vis"
+    - label: "ORCID: 0000-0003-1028-0010"
+      icon: "fa-brands fa-orcid"
+      url: "https://orcid.org/0000-0003-1028-0010"
     - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin-square"
+      icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/hsiang-yun-wu-162758ba/"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"

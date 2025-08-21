@@ -46,7 +46,6 @@ last_modified_at: 2025-08-20
 | Type  | Title | Year |
 |-------|-------|------|
 |Paper  | **Best Paper Award** | EuroVis 2025|
-|Poster | **PacifiVis Poster Honorable Mention** | PacificVis 2024|
 |Paper  | **Best Short Paper Award** | IEEE Vis 2020|
 |Paper  | **Best Paper Award** | CESCG 2020|
 |Paper  | **Best Paper Honorable Mention** | EuroVis 2019|
@@ -56,10 +55,13 @@ last_modified_at: 2025-08-20
 |Contest| **1st Place Award in 24-Hour Science Map Contest** | 24-Hour Science Map 2021|
 |Contest| **3rd Place Award in Graph Drawing Contest** | GD 2020|
 |Contest| **1at Place Award in Graph Drawing Contest** | GD 2019|
+|Poster | **PacifiVis Poster Honorable Mention** | PacificVis 2024|
 |Poster | **Best Poster Award** | SchematicMapping 2019|
-|Presentation| Best Presentation Award | SCCG 2016|
+|Presentation| **Best Presentation Award** | SCCG 2016|
 
 ## Additional Qualification and Experiences
 
+| Type  | Detail |
+|-------|-------|
 |Languages|English (C1), Japanese (C1), German (B1) and Chinese (native)|
 |Interests|Ballet, Japanese dance, Chinese classical dance, [design](https://miniwolkedesign.github.io/), traveling, and cooking|
