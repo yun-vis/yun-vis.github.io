@@ -32,6 +32,6 @@ synthesis, etc.)
 
 ## The World of Scientists
 
-![The World of Scientists](/assets/images/the_world_of_scientists/the_world_of_scientists-label-small.png)
+![The World of Scientists](/assets/images/the_world_of_scientists/the_world_of_scientists-label.png)
 
 The map is created by Hsiang-Yun Wu. Copyright: CC BY-NC-ND. You are free to share (copy, distribute and transmit) by citing the author. (Download: [small](/assets/images/the_world_of_scientists/the_world_of_scientists-label-small.png) (1131x800, 2.3MB), [large](/assets/images/the_world_of_scientists/the_world_of_scientists-label-large.png) (2262x1600, 8.9MB))
